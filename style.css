@@ -195,3 +195,7 @@ body {
     background: white ;
     border: 10px solid navy;
 }
+#newText:hover {
+    color: white;
+    background-color: #E95D0F;
+}
